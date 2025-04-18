@@ -10,6 +10,5 @@ cp index.js ..
 cp index.pck ..
 cp index.png ..
 cp index.wasm ..
-cp index.worker.js ..
 
 echo "Done."
